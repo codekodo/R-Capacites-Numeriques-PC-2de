@@ -6,8 +6,7 @@ Programme à lire [ici](http://cache.media.eduscol.education.fr/file/Consultatio
 # Capacités numériques du programme
 "Le langage de programmation conseillé est le langage Python"
 
-## Mesure et incertitudes
-Variabilité de la mesure d’une grandeur physique.
+## Variabilité de la mesure d’une grandeur physique.
 
 **Capacité numérique** : Représenter l’histogramme associé à une série de mesures à l’aide d’un tableur.
 
