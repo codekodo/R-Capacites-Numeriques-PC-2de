@@ -8,7 +8,7 @@ Programme à lire [ici](http://cache.media.eduscol.education.fr/file/Consultatio
 
 ## Variabilité de la mesure d’une grandeur physique.
 
-**Capacité numérique** : Représenter l’histogramme associé à une série de mesures à l’aide d’un tableur.
+**Capacité numérique** : représenter l’histogramme associé à une série de mesures à l’aide d’un tableur.
 
 ## Description du mouvement d’un système par celui d’un point
 
