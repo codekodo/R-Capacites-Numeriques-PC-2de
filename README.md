@@ -13,11 +13,10 @@ Variabilité de la mesure d’une grandeur physique.
 
 ## Décrire un mouvement
 ### Description du mouvement d’un système par celui d’un point
-_Position. Trajectoire d’un point._
+
 **Capacité numérique** : représenter les positions successives d’un système modélisé par un point lors d’une évolution unidimensionnelle ou bidimensionnelle à l’aide d’un langage de programmation
 
 ### Vecteur déplacement d’un point.
-_Vecteur vitesse moyenne d'un point. Vecteur vitesse d’un point. Mouvement rectiligne._
 
 **Capacité numérique** : représenter des vecteurs vitesse d’un système modélisé par un point lors d’un mouvement à l’aide d’un langage de programmation.
 
