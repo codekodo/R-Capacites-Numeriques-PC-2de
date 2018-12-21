@@ -1,4 +1,4 @@
-# Calepins pour les programme de SPC seconde
+# Calepins pour le programme de SPC seconde
 
 ## Programme
 Programme à lire [ici](http://cache.media.eduscol.education.fr/file/Consultations2018-2019/79/0/PPL18_Physique-chimie_COM_2e_1024790.pdf)
