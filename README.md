@@ -12,7 +12,7 @@ Programme à lire [ici](http://cache.media.eduscol.education.fr/file/Consultatio
 
 ## Description du mouvement d’un système par celui d’un point
 
-**Capacité numérique** : représenter les positions successives d’un système modélisé par un point lors d’une évolution unidimensionnelle ou bidimensionnelle à l’aide d’un langage de programmation
+**Capacité numérique** : représenter les positions successives d’un système modélisé par un point lors d’une évolution unidimensionnelle ou bidimensionnelle à l’aide d’un langage de programmation.
 
 ## Vecteur déplacement d’un point
 
